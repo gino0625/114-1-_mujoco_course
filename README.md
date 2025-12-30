@@ -3,12 +3,11 @@
 ## Result
 - Stabilized：✅
 
-
-  [![Demo Video](https://img.youtube.com/vi/ootUTk5HXjA/hqdefault.jpg)](https://www.youtube.com/watch?v=ootUTk5HXjA)
+[![Demo Video](https://img.youtube.com/vi/A-7rAJFr9ts/hqdefault.jpg)](https://www.youtube.com/watch?v=A-7rAJFr9ts)
+  
 - Velocity control：✅
 
-
-  [![Demo Video](https://img.youtube.com/vi/A-7rAJFr9ts/hqdefault.jpg)](https://www.youtube.com/watch?v=A-7rAJFr9ts)
+[![Demo Video](https://img.youtube.com/vi/ootUTk5HXjA/hqdefault.jpg)](https://www.youtube.com/watch?v=ootUTk5HXjA)
 
 ## Stabilized result
 <img src="plots/stabilize.png" width="360" alt="Result">
